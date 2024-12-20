@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/7175c0da-d511-4d0e-a951-02c0ce0f20a7)# Ex09 Event Registration Web Application
-## Date:
+# Ex09 Event Registration Web Application
+## Date:20/12/24
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
