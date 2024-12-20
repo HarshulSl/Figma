@@ -98,6 +98,40 @@ login page
   </svg>
   <div class="text-0-1-5">REGISTER</div>
 </div>
+
+.container--0- {
+  position: absolute;
+  left: 268px;
+  top: -478px;
+  width: 440px;
+  height: 956px;
+  background-color: #ffffff;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-2 {
+  width: 209px;
+  height: 65px;
+  color: #ffffff;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #000000;
+  font-size: 36px;
+  font-family: Konkhmer Sleokchher, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-6 {
+  width: 368px;
+  height: 611px;
+  color: #ffffff;
+  font-size: 15px;
+  font-family: Konkhmer Sleokchher, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
 ```
 
 event list
@@ -162,6 +196,30 @@ event list
     Race<br />Potato Sack Race
   </div>
 </div>
+
+.container--0- {
+  position: absolute;
+  left: 1228px;
+  top: -478px;
+  width: 440px;
+  height: 956px;
+  background-color: #ffffff;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-3 {
+  width: 322px;
+  height: 130px;
+  color: #ffffff;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #000000;
+  font-size: 36px;
+  font-family: Konkhmer Sleokchher, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
 ```
 
 register 
@@ -290,6 +348,29 @@ register
     <rect width="170" height="21" fill="#D9D9D9"></rect>
   </svg>
 </div>
+.container--0- {
+  position: absolute;
+  left: 1228px;
+  top: -478px;
+  width: 440px;
+  height: 956px;
+  background-color: #ffffff;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-3 {
+  width: 322px;
+  height: 130px;
+  color: #ffffff;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #000000;
+  font-size: 36px;
+  font-family: Konkhmer Sleokchher, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
 ```
 
 contact 
@@ -418,6 +499,30 @@ contact
     <rect width="170" height="21" fill="#D9D9D9"></rect>
   </svg>
 </div>
+
+.container--0- {
+  position: absolute;
+  left: 1228px;
+  top: -478px;
+  width: 440px;
+  height: 956px;
+  background-color: #ffffff;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-3 {
+  width: 322px;
+  height: 130px;
+  color: #ffffff;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #000000;
+  font-size: 36px;
+  font-family: Konkhmer Sleokchher, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
 
 ```
 
